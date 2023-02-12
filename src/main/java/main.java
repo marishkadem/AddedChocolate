@@ -43,9 +43,6 @@ public class main {
         store.buy("Milka",111.11);
         System.out.println(store);
 
-
-
-
     }
 
 }
